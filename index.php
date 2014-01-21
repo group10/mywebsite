@@ -2,20 +2,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title>
+<title>國立臺北教育大學_資訊教育學習網</title>
 </head>
 
 <body>
 
 
-	<h2>電腦科學學習網</h2>
+	<h2>資訊教育學習網</h2>
 
 <div id="MAIN_NAV" >
 
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li> 
-		<li><a href="aaa.php">aaa</a></li> 	
-		<li><a href="upload.php">檔案上傳</a></li>
+		<li><a href="reading.php">教材閱讀</a></li>  	
+		<li><a href="upload.php">功課繳交</a></li>
 		<li><a href="message.php">留言板</a></li>
 		<li><a href="record.php">歷史紀錄</a></li>
 		<li><a href="login.php">會員資料修改</a></li>
